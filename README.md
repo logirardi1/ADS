@@ -21,6 +21,18 @@ O repositório está organizado da seguinte forma:
 - **Recursos**: Slides, materiais de auxílio (PDF's), links úteis e documentação/mídia adicional referente a aula.
 
 ---
-### Adendos
+# Formatações
+
+- **Aulas**: *matéria _ assunto _ linguagem _ data*
+- **Projetos**: *nome _ linguagem _ framework _ matéria*
+- **Atividades**: *data _ nº do exercício _ versão do exercício(tentativa)*
+- **Recursos**: *matéria _ linguagem _ data*
+
+```
+As etiquetas que não tiverem valor, ou menções, serão preenchidas por um "%"
+```
+
+---
+#### Adendos
 
 A priori, os materiais contidos em "Aulas"  deterão as informações dos slides dos professores. (_pode ocorrer de não conseguir acompanhar e concicliar as anotações com os slides_)
