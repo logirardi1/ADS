@@ -15,10 +15,10 @@ Aqui estão contidos materiais como:
 
 O repositório está organizado da seguinte forma:
 
-- **Aulas**: Contém materiais de aulas, como slides, anotações e exercícios.
+- **Aulas**: Contém anotações, teoria e a explicação da aula.
 - **Projetos**: Espaço para projetos e treinamento das habilidades individualmente.
 - **Atividades**: Atividades e exercícios propostos durante o curso.
-- **Recursos**: Materiais de auxílio, links úteis e documentação/mídia referente a aula.
+- **Recursos**: Slides, materiais de auxílio (PDF's), links úteis e documentação/mídia adicional referente a aula.
 
 ---
 ### Adendos
