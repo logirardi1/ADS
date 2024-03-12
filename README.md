@@ -1,5 +1,3 @@
-# ADS
-
 # Repositório de anotações e exercícios
 ---
 #### Análise e Desenvolvimento de Sistemas (ADS) - FATEC Taubaté
