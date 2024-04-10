@@ -28,15 +28,6 @@ int main()
 }
 
 /*
-%Exemplo de funcionamento do código:
-
-!System.: informe 2 numeros reais 
-?Client.: 5
-?Client.: 10
-!System.: media7.5
-*/
-
-/*
 *código completo sem comentários:
 
 #include <iostream>
