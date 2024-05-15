@@ -3,18 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package beans;
+package folhapag.beans;
 
 /**
  *
  * @author aluno
  */
-public class Empregado {
+public interface Empregado {
     double IRRF();
     double INSS();
-    double salarioBruto();
-    double salarioLiquido();
-    
+    double SalarioBruto();
+    double SalarioLiquido();
     
     
 }
