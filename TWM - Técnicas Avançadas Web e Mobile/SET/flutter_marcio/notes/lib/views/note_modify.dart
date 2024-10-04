@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 
 class NoteModify extends StatelessWidget {
-  final String? noteID; // Adicionei um tipo e um valor padrão (null)
+  final String? noteID; // 
   bool get isEditing => noteID != null;
 
-  NoteModify({this.noteID}); // Agora o noteID é um parâmetro opcional
+  NoteModify({this.noteID}); // noteID é um parâmetro opcional  (nao  podia ser sincrono)
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text(isEditing ? 'Edit Note' : 'Create Note')),
+      appBar: AppBar(title: Text(isEditing ? 'Editar  nota' : 'Criar nota')),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
         child: Column(
@@ -24,7 +24,7 @@ class NoteModify extends StatelessWidget {
 
             TextField(
               decoration: InputDecoration(
-                hintText: 'Note Content'
+                hintText: 'Conteudo da nota'
               ),
             ),
 
