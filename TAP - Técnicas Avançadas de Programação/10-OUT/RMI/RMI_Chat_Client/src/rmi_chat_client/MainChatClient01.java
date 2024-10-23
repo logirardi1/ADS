@@ -11,8 +11,8 @@ package rmi_chat_client;
  */
 public class MainChatClient01 {
     public static void main(String args[]){
-       RMIChatClient client = new RMIChatClient("lô", "192.168.100.120", 1099);//ip cliente
-       client.connectServer("serverchat", "192.168.100.144", 1099);//ip servidor
+       RMIChatClient client = new RMIChatClient("lorenzo", "192.168.0.87", 1099);//ip cliente
+       client.connectServer("serverchat", "192.168.0.217", 1099);//ip servidor
     }
 }
 

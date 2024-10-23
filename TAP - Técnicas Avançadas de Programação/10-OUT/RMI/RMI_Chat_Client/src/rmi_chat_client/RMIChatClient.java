@@ -51,7 +51,7 @@ public class RMIChatClient {
                 System.out.println("entre com msg:");
                 msg = in.next();
                 rmi.sendMSG(client, destinatario, msg);
-            }while(sair != 0);
+            }while(sair == 0);
         } catch (RemoteException ex) {
             Logger.getLogger(RMIChatClient.class.getName()).log(Level.SEVERE, null, ex);
         } catch (NotBoundException ex) {
@@ -59,4 +59,3 @@ public class RMIChatClient {
         }
     }
 }
-
